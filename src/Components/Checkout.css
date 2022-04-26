@@ -1,0 +1,36 @@
+.CheckoutImg {
+  height: 110px;
+  width: 110px;
+  border-radius: 400px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-style: dotted;
+  border-color: red Green White Gold;
+}
+
+.images {
+  position: relative;
+  left: 125px;
+  top: -50px;
+}
+
+.MatchOrNo {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+}
+
+.grid-image {
+  display: grid;
+  max-height: 150px;
+  max-width: 150px;
+}
+
+#backButton { 
+  font-size: 50px;
+  position: relative;
+  top: -60px;
+  left: -50px;
+  color: white;
+}

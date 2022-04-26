@@ -1,0 +1,16 @@
+.setting-container {
+    display: grid;
+    justify-content: center;
+    position: relative;
+    left: 200px;
+    text-align: center;
+    top: 100px;
+    font-size: 200%;
+}
+
+footer{
+    position: relative;
+    font-size: 70%;
+    top: 400px;
+}
+

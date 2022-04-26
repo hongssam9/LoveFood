@@ -1,0 +1,20 @@
+form {
+    display: grid;
+    justify-content: center;
+    position: relative;
+    left: 200px;
+    /* text-align: center; */
+    top: 50px; 
+}
+
+input{
+    font-size:23px;
+}
+
+label {
+   color: rgb(73, 1, 1); 
+}
+
+button {
+    background: rgb(88, 231, 88);
+}

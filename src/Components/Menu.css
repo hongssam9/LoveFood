@@ -1,0 +1,17 @@
+.Menu {
+    display: grid;
+    justify-content: center;
+    position: relative;
+    left: 200px;
+    text-align: center;
+  
+    font-size: 200%;
+}
+
+#menuBackButton { 
+  font-size: 50px;
+  position: relative;
+  top: -110px;
+  left: 75px;
+  color: white;
+}

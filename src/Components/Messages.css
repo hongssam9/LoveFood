@@ -1,0 +1,52 @@
+.container-messages {
+    display: grid;
+    justify-content: center;
+    position: relative;
+    left: 205px;
+    text-align: center;
+    
+    font-size: 150;
+    grid-row-gap: 5px;  
+}
+
+#magnifying-glass {
+    font-size: 3em;
+    width: 0.4em;
+    box-sizing: content-box;
+    height: 0.4em;
+    border: 0.1em solid rgb(171, 51, 192);
+    position: relative;
+    border-radius: 0.35em;
+    left: 85px;
+    top: -10px;
+    
+  }
+  #magnifying-glass:before {
+    content: ""; 
+    position: absolute;
+    right: -0.25em;
+    bottom: -0.1em;
+    border-width: 0;
+    background: rgb(171, 51, 192);
+    width: 0.35em;
+    height: 0.08em;
+    transform: rotate(45deg);
+  }
+
+  .messagesImages {
+    height: 70px;
+    width: 70px;
+    border-radius: 400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-style: dotted;
+    border-color: red Green White Gold;
+  }
+
+  #mesBackButton{
+    font-size: 50px;
+    position: relative;
+    top: -110px;
+    left: -130px;
+    color: white;
+  }

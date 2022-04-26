@@ -1,0 +1,16 @@
+.Terms {
+  display: grid;
+  justify-content: center;
+  position: relative;
+  left: 170px;
+  top: -20px;
+  margin: 0px -65px 0px 0px;
+}
+
+#termsBackButton{
+  font-size: 50px;
+  position: relative;
+  top: -90px;
+  left: -128px;
+  color: white;
+}

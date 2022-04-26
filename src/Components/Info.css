@@ -1,0 +1,21 @@
+.info {
+    display: grid;
+    justify-content: center;
+    position: relative;
+    left: 200px;
+    text-align: center;
+    top: -20px; 
+}
+
+footer {
+   top: 80px; 
+}
+
+
+#infoBackButton { 
+    font-size: 50px;
+    position: relative;
+    top: -90px;
+    left: -125px;
+    color: white;
+  }
