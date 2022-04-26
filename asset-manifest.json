@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LoveFood/static/css/main.24d9f0d0.chunk.css",
+    "main.js": "/LoveFood/static/js/main.05ba0bf5.chunk.js",
+    "main.js.map": "/LoveFood/static/js/main.05ba0bf5.chunk.js.map",
+    "runtime-main.js": "/LoveFood/static/js/runtime-main.74a8e5a0.js",
+    "runtime-main.js.map": "/LoveFood/static/js/runtime-main.74a8e5a0.js.map",
+    "static/js/2.de862b54.chunk.js": "/LoveFood/static/js/2.de862b54.chunk.js",
+    "static/js/2.de862b54.chunk.js.map": "/LoveFood/static/js/2.de862b54.chunk.js.map",
+    "static/js/3.706be477.chunk.js": "/LoveFood/static/js/3.706be477.chunk.js",
+    "static/js/3.706be477.chunk.js.map": "/LoveFood/static/js/3.706be477.chunk.js.map",
+    "index.html": "/LoveFood/index.html",
+    "static/css/main.24d9f0d0.chunk.css.map": "/LoveFood/static/css/main.24d9f0d0.chunk.css.map",
+    "static/js/2.de862b54.chunk.js.LICENSE.txt": "/LoveFood/static/js/2.de862b54.chunk.js.LICENSE.txt",
+    "static/media/logo192.b37536ed.png": "/LoveFood/static/media/logo192.b37536ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74a8e5a0.js",
+    "static/js/2.de862b54.chunk.js",
+    "static/css/main.24d9f0d0.chunk.css",
+    "static/js/main.05ba0bf5.chunk.js"
+  ]
+}
